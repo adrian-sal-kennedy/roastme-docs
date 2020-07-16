@@ -16,25 +16,31 @@ Probably because of this, the best dishes don't have well-defined recipes with u
 
 Initially Roastme will simply define recipes in text, however under the hood there will be room to get all of this into grams, taking into account the densities of different ingredients that would otherwise be measured by volume.
 
-We are [actively][1] [researching][2]
+We are [actively][1] [researching][2] [ways][3] users might want to interact with online recipes, and as a stretch goal we are looking into IoT integration - recipes are stored as structured data so connecting our api to other frontends is just a matter of correct formatting.
 
 [1]:https://developers.google.com/search/docs/data-types/recipe
 [2]:https://api2.bigoven.com/web/documentation/recipes
+[3]:https://www.amazon.com.au/newscorp-Taste-com-au/dp/B0778JD3H2
 
 ## Functionality / features
 
-### MVP
+### MVP features
 
-- Bookmarks
+- Faves - like recipe bookmarks
 - Image uploading / Amazon S3
 - Heroku / Netlify deployment
 - User rating
 - Search / filtering / sorting
+- Unit conversion (internally all grams)
+- Scale by number of servings
+- Comments threads on recipes
 
-### Stretch
+### Aspirational features
 
 - Track recipe history
 - "Clone" recipes
+- Data captured on unique views
+- Trends
 - Recommended recipes
 
 ## Target audience

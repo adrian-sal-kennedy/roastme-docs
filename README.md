@@ -18,14 +18,15 @@ Initially Roastme will simply define recipes in text, however under the hood the
 
 We are [actively][1] [researching][2] [ways][3] users might want to interact with online recipes, and as a stretch goal we are looking into IoT integration - recipes are stored as structured data so connecting our api to other frontends is just a matter of correct formatting.
 
-[1]:https://developers.google.com/search/docs/data-types/recipe
-[2]:https://api2.bigoven.com/web/documentation/recipes
-[3]:https://www.amazon.com.au/newscorp-Taste-com-au/dp/B0778JD3H2
+[1]: https://developers.google.com/search/docs/data-types/recipe
+[2]: https://api2.bigoven.com/web/documentation/recipes
+[3]: https://www.amazon.com.au/newscorp-Taste-com-au/dp/B0778JD3H2
 
 ## Functionality / features
 
 ### MVP features
 
+- Mobile first
 - Faves - like recipe bookmarks
 - Image uploading / Amazon S3
 - Heroku / Netlify deployment
@@ -38,14 +39,15 @@ We are [actively][1] [researching][2] [ways][3] users might want to interact wit
 ### Aspirational features
 
 - Track recipe history
-- "Clone" recipes
+- "Clone" recipes, conceptually similar to git
 - Data captured on unique views
 - Trends
 - Recommended recipes
 
 ## Target audience
 
-Any home cook who is looking for new and exciting recipes.
+Any home cook who is looking for new and exciting recipes, or looking for a springboard to develop their own unique takes on them.  
+A particular focus on food bloggers, instagrammers and even food businesses looking to promote themselves through social media.
 
 ## Tech stack
 
@@ -54,4 +56,27 @@ Javascript - React
 HTML/CSS  
 Amazon S3  
 Heroku  
-Netlify  
+Netlify
+
+## Dataflow diagram
+
+![Dataflow diagram](./docs/DataflowDiagram.png)
+
+## Application Architecture Diagram
+
+![Application Architecture Diagram](./docs/ArchitectureDiagram.png)
+
+## User stories
+
+## Wireframes
+
+![Mobile UI - first 4 views](./docs/wireframe-01-04.png)
+![Mobile UI - second 4 views](./docs/wireframe-05-08.png)
+![Mobile UI - last 3 views](./docs/wireframe-09-11.png)
+![Desktop UI - first 2 views](./docs/wireframe-2-01-02.png)
+![Desktop UI - second 2 views](./docs/wireframe-2-03-04.png)
+![Desktop UI - third 2 views](./docs/wireframe-2-05-06.png)
+![Desktop UI - first 2 views](./docs/wireframe-2-07-08.png)
+![Desktop UI - last 2 views](./docs/wireframe-2-09-10.png)  
+
+## Trello management

@@ -94,3 +94,4 @@ Adrian can't remember recipes well. he needs an assistant that will tell him exa
 
 ## Trello management
 
+![Screenshot of Trello board for Roastme project pt1, taken on 16 july 2020](./docs/trello-screengrab.png)

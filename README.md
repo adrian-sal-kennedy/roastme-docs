@@ -68,6 +68,19 @@ Netlify
 
 ## User stories
 
+### Steve the blogger
+Steve wants to blog about his cooking adventures, with an eye to becoming a geniune instagram influencer. he would honestly just like a way to turn his recipe process into a blog post with pics and everything else and publish the whole thing, so ideally he'd have a tool that both guides him through the process and is able to output a sort of public view of it that includes his ramblings about travelling in tuscany, and how his nonna used to cook, etc etc. if his recipe tracker can do this he's be overjoyed.
+
+### Lucy the food explorer
+Lucy wants to develop her own take on a recipe she had at a restaurant. there's scant info online and most of it is people with no idea. she embarks on an iterative process of juggling different amounts of different things, scribbling notes down etc.
+in the end after several attempts she has something that works, but it's a long list on the back of an envelope in arbitrary units. to lock it down she re-makes the recipe one more time, weighing each ingredient carefully. the recipe app should give access to the whole process here, allowing pics of various steps etc, and presenting the current iteration in a form where it can be re-made at any scale by just multiplying everything.
+
+### Jarvis the 9 year old cheflet
+Jarvis likes to cook, but he's 9 years old. he forgets to write anything down and is frustrated when he wants to make something again that he loved. he needs a way to get it all down easily and read it all back in a way that is simple enough for a 9yo
+
+### Adrian the clueless but well-meaning
+Adrian can't remember recipes well. he needs an assistant that will tell him exactly what to do at every step or he will simply screw it up. this goes for ingredients and process alike. he likes foody stuff but is clueless and would honestly rather be coding or pontificating on twitter than going through the actual "cooking" part of cooking.
+
 ## Wireframes
 
 ![Mobile UI - first 4 views](./docs/wireframe-01-04.png)
@@ -80,3 +93,4 @@ Netlify
 ![Desktop UI - last 2 views](./docs/wireframe-2-09-10.png)  
 
 ## Trello management
+

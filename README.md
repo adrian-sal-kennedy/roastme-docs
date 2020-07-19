@@ -88,12 +88,19 @@ Adrian can't remember recipes well. He needs an assistant that will tell him exa
 ## Wireframes
 
 ![Mobile UI - first 4 views](./docs/wireframe-01-04.png)
+
 ![Mobile UI - second 4 views](./docs/wireframe-05-08.png)
+
 ![Mobile UI - last 3 views](./docs/wireframe-09-11.png)
+
 ![Desktop UI - first 2 views](./docs/wireframe-2-01-02.png)
+
 ![Desktop UI - second 2 views](./docs/wireframe-2-03-04.png)
+
 ![Desktop UI - third 2 views](./docs/wireframe-2-05-06.png)
+
 ![Desktop UI - first 2 views](./docs/wireframe-2-07-08.png)
+
 ![Desktop UI - last 2 views](./docs/wireframe-2-09-10.png)  
 
 ## Trello management
